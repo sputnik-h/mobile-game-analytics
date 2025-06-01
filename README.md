@@ -1,6 +1,6 @@
 # 📱 Mobile Game Analytics & A/B Testing
 
-This project explores user behavior in a mobile game through two key components:
+This project explores user behavior and monetization in a mobile game dataset through two key components:
 
 1. **Player Retention Analysis** — understanding how player engagement with the game evolve over time.
 2. **A/B Testing** — evaluating the impact of a new penalty-based feature on monetization metrics like revenue and in-app purchases.
